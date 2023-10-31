@@ -1,0 +1,2 @@
+HI I am a sample text file.
+I am created for the purpose of testing git
